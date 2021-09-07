@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisso-hub
 - 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning Python 
+- 🌱 
 - 💞️ I’m looking to collaborate on Microservice applications
 - 📫 How to reach me ...
 
