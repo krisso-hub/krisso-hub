@@ -5,6 +5,6 @@
 - 📫 I'm looking to collaborate on python projects
 - ✨  How to reach me ...
 - ✨ fun facts
-krisso-hub/krisso-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 --->
